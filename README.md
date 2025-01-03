@@ -31,8 +31,7 @@ This project is a **React-based Calendar Application** designed to track and man
 
 1. Download the zip or clone it :
 ```bash
-git clone https://github.com/PiyushKamble/Calendar-Application-for-Communication-Tracking-ENTNT
-cd Calendar-Application-for-Communication-Tracking-master
+git clone https://github.com/Aashu-2002/CalendarCraft
 ```
 
 2. Install dependencies:
